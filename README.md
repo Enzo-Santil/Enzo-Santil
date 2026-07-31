@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Sou estudante de Desenvolvimento de Sistemas pelo SENAI São Paulo, com interesse em:
 
