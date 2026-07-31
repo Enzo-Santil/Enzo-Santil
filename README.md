@@ -36,7 +36,7 @@ Atualmente busco oportunidades para aprender, desenvolver projetos e construir e
 
 ## 📚 Atualmente Estudando
 
-- SQL Avançado
+- SQL
 - Modelagem de Dados
 - Engenharia de Dados
 - Python para Automação
